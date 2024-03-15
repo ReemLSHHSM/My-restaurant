@@ -2,6 +2,7 @@
 
 A wireframe for a Mexican restaurant web app
 
-![Wireframe Of a restaurant](images/img3.png)
-ghjgjuil
+![Wireframe Of a restaurant](images1/img3.png)
+
+
 
